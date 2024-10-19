@@ -1,16 +1,4 @@
-/*! 
- * Template Name: Pillar - Bootstrap 5 Resume/CV Template for Developers
- * Version: Bootstrap 5 v3.0
- * Author: Xiaoying Riley
- * Copyright: 3rd Wave Media
- * Twitter: @3rdwave_themes
- * Website: https://themes.3rdwavemedia.com/
-*/
-/*!
-   * Bootstrap  v5.3.0 (https://getbootstrap.com/)
-   * Copyright 2011-2023 The Bootstrap Authors
-   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
-   */
+
 :root,
 [data-bs-theme="light"] {
   --bs-blue: #0d6efd;
