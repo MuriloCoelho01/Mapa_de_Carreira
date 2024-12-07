@@ -86,28 +86,18 @@ O projeto é composto por três principais seções:
   - Scrum, Kanban
   - Jira, Trello
 
-## Contribuições
-
-Se você deseja contribuir para este projeto, sinta-se à vontade para fazer um fork e enviar pull requests. Melhorias no design, funcionalidades ou até mesmo sugestões de aprendizado são bem-vindas!
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Contato
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 500px; padding: 100px;">
-  <figure style="text-align: center;">
+
  <a href= "mailto:coelho.murilo10@gmail.com" target="_blank">
       <img src="e-mail_logo.png" alt="Murilo Coelho" width="60" height="40" style="border-radius: 50%;" />
     </a>
-  </figure>
-
-  <figure style="text-align: center;">
-    <a href= "https://www.linkedin.com/in/murilo-coelho10/" target="_blank">
+    
+   <a href= "https://www.linkedin.com/in/murilo-coelho10/" target="_blank">
       <img src="Linkedin_logo.png" alt="Linkedin" width="100" height="40" style="border-radius: 50%;" />
     </a>
-  </figure>
-</div>
+
+
 
 
