@@ -96,5 +96,18 @@ Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE
 
 ## Contato
 
-- **E-mail**: [coelho.murilo10@gmail.com](mailto:coelho.murilo10@gmail.com)
-- **LinkedIn**: [Murilo Coelho](https://www.linkedin.com/in/murilo-coelho10/)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 500px; padding: 100px;">
+  <figure style="text-align: center;">
+ <a href= "mailto:coelho.murilo10@gmail.com" target="_blank">
+      <img src="e-mail_logo.png" alt="Murilo Coelho" width="60" height="40" style="border-radius: 50%;" />
+    </a>
+  </figure>
+
+  <figure style="text-align: center;">
+    <a href= "https://www.linkedin.com/in/murilo-coelho10/" target="_blank">
+      <img src="Linkedin_logo.png" alt="Linkedin" width="100" height="40" style="border-radius: 50%;" />
+    </a>
+  </figure>
+</div>
+
+
